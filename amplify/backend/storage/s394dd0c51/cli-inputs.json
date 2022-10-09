@@ -1,0 +1,14 @@
+{
+  "resourceName": "s394dd0c51",
+  "policyUUID": "94dd0c51",
+  "bucketName": "first-amplify",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
